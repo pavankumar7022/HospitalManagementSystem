@@ -1,4 +1,4 @@
-# ------------------------------
+
 # Simple Hospital Management System
 # ------------------------------
 
@@ -91,4 +91,5 @@ while True:
         print("Thank you!")
         break
     else:
+
         print("Invalid choice! Try again.\n")
